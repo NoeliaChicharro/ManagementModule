@@ -10,7 +10,9 @@
 == General
 - Login
 
-== Shop (User Stories)
+== User Stories
+
+=== Shop
 - Categorized Filter
 - Search
 - Card
@@ -18,17 +20,17 @@
 - Checkout -> Payment (Bill, CreditCard, PayPal)
 - Shipping
 
-== Booking with Locations
+=== Booking with Locations
 - Call to actions button
 - Map with pins
 - Simplify Treatments
 - Synchronize Calenders
 
-== Workshop
+=== Workshop
 - Navigation thingy
 - Separate Workshop and Offers
 
-== Stylists
+=== Stylists
 - Own page for stylists
 - Navigation thingy
 
