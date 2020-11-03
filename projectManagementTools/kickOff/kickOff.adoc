@@ -1,0 +1,88 @@
+= Kick off
+
+== What happens when you fist arrive at your office?
+
+. Write down all the clients goals.
+    - Should be measurable
+    - Should be doable
+    - Should be realistic
+. Priority List (define with client) (MoSCoW Method)
+. Keep in mind, that everyone in the team should be fine with the goals.
+. Team evaluation:
+    - What are each persons strengths.
+    - How available are those persons. (does everyone work 100% on the project?)
+    - Hardware should also be considert (if you don't own something, it should be in the budget)
+    - Software
+. Risk management
+
+== Budget
+. Scatual
+    - Don't underestimate the times
+    - Add 25% on the estimated time (Allows a bit of wiggel)
+    - Try to estimate more than you actually need. Everything that's over budget costs more!
+    - Avoid ScopeGrip (Most of the time this happens, cause of the client!)
+. Budget
+    - Templates, Fonts
+    - Hosting, Support
+    - Content Maintenance
+    - Subscriptions
+    - Libraries
+    - Time
+    - Marketing
+    - A lot more (depending on the Project (Hardware, Software))
+    - Consider rent and salaries
+
+== Write an offer (Basics)
+. Try to write down what the clients problems are (Goals) (Requirements)
+    - Proposal with a solution
+    - Everyone can see what you accried to
+. Deliverables
+    - Things we actually deliver
+    - Create some sort of milestones (You can check them, the client too)
+    - Training lessons (for Client)
+    - Manual
+    - This shows the real scatual
+    - on each deliverables shows the price (like a reciet)
+
+== Start the Project
+. Break down the Goals and create user Stories
+. Esamble the team
+
+== User Stories
+- Independent
+- Negotiable
+- Valuable
+- Estimable
+- Small
+- Testable
+
+- *<user role>, I want <user requirement> so that <desired benefit>*
+- <As a user>, I want <to search for a product>, so that <I can find my desired product>. (search bar)
+- <As a user>, I want <to see all my products>, so that <I know what I am about to by> (shopping card)
+
+== Team
+- Designer
+- Developers (Backend/Frontend)
+- Manager/Team leader
+- Product Owner (Client)
+
+== Risk Management
+. One can close company
+. Over time
+. Loss of employees
+. Corona!
+. Software fail
+. New Software versions
+
+
+
+
+
+
+
+
+
+
+
+
+

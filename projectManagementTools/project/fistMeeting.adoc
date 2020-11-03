@@ -1,0 +1,54 @@
+= Kick Off
+
+== Knwon
+- Shop
+- Location
+- New color schema
+- (Blog ????) (new the same a blog?)
+- Student Angebot (Must)
+- Pflegekarte (Must)
+- Flechtwerkstatt (Must)
+- Special sercies (Must)
+
+== Questions
+- Blog and news as the same thingy?
+- Shoundn't locations be the first thing to see?
+- Call to action button for booking?
+- Filter for
+
+. What sets yut company apart?
+    - different Stylists (with different Costs)
+    - An unique style
+    - only in zurich
+
+. What do you like about your website?
+
+. What similar websites do u like
+    - Pedro (Gold color as button color) -> https://pedrosanchez.ch/en/
+    - spaze (Hiro images as videos) (But video is not a must have) -> https://www.spaze.ch/
+    - All backgrounds are images
+
+. Who will provide contnet?
+    - Client (depending on the sice we define for a pariculat pace)
+    - Logo images by client
+
+. What is the deadline?
+    - February
+
+. Will the stuff be the same?
+    - Same twam will work on it
+
+. Maintenance and support?
+
+. Do u want to have a WordPress CMS?
+    - Jep
+
+. Blog
+    - no blog
+    - pop up for news
+
+==
+
+
+
+

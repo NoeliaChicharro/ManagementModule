@@ -1,0 +1,17 @@
+= Project Management Methods
+
+== Waterfall Method
+
+== Kanban
+
+== Agile and Agile Manifesto
+
+== SCRUM
+
+== SCRUMBAN
+
+== eXtreme Programming
+
+== Lean
+
+== PRISM

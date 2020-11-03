@@ -1,0 +1,11 @@
+= Team
+
+== Management
+- Noelia
+
+== Design
+- Katharina
+
+== Develop
+- Noelia
+- Janick

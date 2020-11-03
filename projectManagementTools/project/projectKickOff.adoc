@@ -1,0 +1,34 @@
+== KICK OFF
+
+== Goals
+. Shop
+. Booking with locations (Call to action button)
+. Workshops
+. Simplify Page (General) -> New Color schema (Gold, Black, Weiss)
+. Stylists
+
+== General
+- Login
+
+== Shop (User Stories)
+- Categorized Filter
+- Search
+- Card
+- Images, Descriptions
+- Checkout -> Payment (Bill, CreditCard, PayPal)
+- Shipping
+
+== Booking with Locations
+- Call to actions button
+- Map with pins
+- Simplify Treatments
+- Synchronize Calenders
+
+== Workshop
+- Navigation thingy
+- Separate Workshop and Offers
+
+== Stylists
+- Own page for stylists
+- Navigation thingy
+
