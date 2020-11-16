@@ -1,0 +1,50 @@
+= 4 Säulen
+
+=== Owned Media
+* Ownes Content (SEO)
+* Corporate Websites
+* Emplyees Stories
+* Testimonials
+* Social Content
+* Reviews
+* Brand Journalism
+* Videos/Podcasts
+
+==== _Inventive_
+* Affilate / Empfehlungen
+* Brand Ambassadors
+* Sponsored Content
+* Native Advertiseing
+
+=== Paid Media
+* Sponsored Posts
+* Social Ads
+* Search engine Ads (SEA)
+* Display Ads
+
+=== Shared Media
+* Likes
+* Shares
+* Reports
+* Retweets
+
+==== _Partnerships_
+* Volunteers
+* Community Work
+
+==== _Influence Engagement_
+* Aus Beitrag wird Kritik
+* Aus Kritik wird Loyalität
+* Aus Loyalität wird Befürwortung
+
+=== Earned Media
+* Media Relation
+* Blogger Relation
+* Investor Relation
+* Influencer Relation
+
+== Authortity (Summe aller)
+* Shareable content
+* engaging content
+* google authorship (ehemals)
+

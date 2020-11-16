@@ -1,0 +1,111 @@
+= Einführung =
+
+=== Was ist digitales Marketing?
+Digitales Marketing sind alle Marketing-Massnahmen, die mit Hilfe des Internets
+erfolgen können.
+Oberstes Ziel ist es kein bissen Streuverlust zu haben.
+
+
+=== Eigenschaften
+Online Marketing vs. Klassisches Marketing
+
+|===
+|Klassisches Marketing |Online Marketing
+
+|Hohe Streuverluste
+|Geringer Streuverlust
+
+|Geografisch begrenzt
+|Weltweit möglich
+
+|träge & ineffektiv
+|schenll & effektiv
+
+|Geringe Input-Output Rate
+|Höheres Input-Outup Rate
+
+|Zeit für Auswertung ist hoch
+|Statistische Auswertung in Echzeit möglich
+
+|One-Way Merketing
+|Interaktives Marketing
+
+|Geringe Personalisierung
+|Starke Personalisiertung möglich
+
+|Keine Automatisierung
+|Automatisierbar
+
+|Kaum messbar
+|Viele Faktoren sind exakt messbar
+|===
+
+
+=== Zielgruppen Digital Marketing
+* Digital Natives (Aufgewachsen mit Internet)
+* Digital Immigrants (Ohne Internet Aufgewachsen aber rein gewachsen)
+* Silver Surfer (70+, lange nicht digital gelebt)
+
+Inzwischen kommunizieren, surfen und recherchieren alle Generationen während des
+Fernsehens online.
+
+
+=== (S) AIDA (E)
+* S - Subconscious
+* A - Attentions
+* I - Interest
+* D - Desire
+* A - Action
+* E - Emotion
+
+Harley Davidson ist eine Firma die es geschaft hat, reine Emotion zu verkaufen.
+
+=== Instrumente
+*Bereich*
+- Social Media
+- Display Marketing
+
+*Medium*
+- Facebook
+- Website
+
+*Instrument*
+- Posts, Social Adds
+- Banner, Skycraper, Rectangle
+
+=== Welche Medien und instrumente sind wichtig.?
+* Man muss nicht überall vertreten sein!
+* Auf welchem Kanal erreiche ich meien Zielgruppe
+* Welcher Content steht zur Verfügung?
+* Welches Medium bietet Mehrwert für den (potentiellen) Kunden?
+* Welche Ressourchen stehen mir zur Verfügung?
+
+=== Ziele
+*Branding, Markenaufbau*
+* Besuerzahlen Webseite
+* organischer Traffic über Brand Begriffe
+* Erwähnungen auf Social Media Plattformen, Blogs & Foren
+
+*Leads*
+* ausgefüllte Kontaktformulare
+* E-Mail-Kontakte
+* Telefonanrufe
+
+*Sales*
+* Parnerseiten
+* Shop-Bestellungen
+* Bestellungen über Mail, Telefon, ...
+
+*Engagement*
+* Page Impressions
+* Social Media Feedback
+* Kommentare
+* Absprungraten
+* durchschnittliche Verweildauer
+
+
+
+
+
+
+
