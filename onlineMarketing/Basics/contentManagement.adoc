@@ -1,0 +1,103 @@
+= Content Management
+
+=== Welche bereiche gibt es? (Content Marketing)
+* Content / Blog Marketing (Influencer)
+* Audio Marketing
+* Online PR
+* Mobile Marketing
+* Augmented Marketing
+* In-Game Marketing
+* In-App Marketing
+* E-Mail Marketing
+* Social Media Marketing (SoMe)
+* Performance Marketing (SEM)
+* Display Marketing
+* Video Marketing
+* Crossmedia Marketing
+* Onpage Marketing
+
+
+|===
+|Interruption Marketing |Inbound Marketing
+
+|Unerbrechung einer Aktivitär um Aufmerksamkeit zu bekommen
+|Organisch das Interesse und Begeisterung wecken ohne Unterbrechung
+
+|SEO-Spam
+|SEO & SEA
+
+|Gekaufte E-Mail Adressen
+|Opt-In E-Mail Adressen
+
+|Plakatwerbung
+|Public Relations
+
+|TV, Radio, Print
+|Community Aktivitäten
+
+|Social Media Werbung
+|Blogging
+
+|Telefonische Kaltaquise
+|Video-Content
+
+|Kommentar-Spam
+|Social Media Profil
+
+|Display Werbung
+|Influencer Marketing
+
+|Video Werbung
+|Mund-zu-Mund Marketing
+
+|Messestände
+|
+
+|===
+
+=== Foren & Communities (Content Marketing)
+* Visueller Platz zum Austausch und zur Archivierung von Gedanken, Meinungen und Erfahrungen
+* Kommunikation in Echzeit
+* ältestr Teil des Socail Web
+* Hohe inhaltliche Referenz
+* hohe Affinität und Betroffenheit zum Thema
+* viele Pseydonmnutzer
+
+===== Umgangstipps
+* Identifikation von wichtigen Foren
+* Regelmässiges Monitoring (Google Alerts)
+* Identifikation als Unternehmensvertreter
+* Link zu eigener Webseite einbauen
+* Freundlicher und höflicher Umgangston (dein Verhalten im Social Web repräsentiert dein Unternehmen)
+
+===== Exkurs: Google Alerts
+* Abodienst, der meldet, wenn neue Inhalte zu einem bestimmten Suchbegriff in Web Auftaucht
+* Alerts kommen per E-Mail - wahlweise sofort, täglich oder wöchentlich
+* Verwenden Sie Suchoperatoren! Bsp.: "site:gutefragen.net Schädlingsbekämpfung"
+* Überblick: https://support.google.com/websearch/answer/136861?hl=de
+
+=== Blogs & Influencing
+===== Definition
+* ein oder mehrere Blogger / Influencer erfassen qualitative Beiträge zu einem oder mehrere Themen
+* Kommentarfunktion für den User
+* wird von Suchmaschinen stark bewertet
+* CMS mehrheitlich WordPress
+* gewinnt immer mehr an Bedeutung
+* gezielte Vermarktung von Dienstleidtungen und Produkten
+* haben oft eine starke Community
+
+===== Freie Beiträge
+* Gestützr auf Recherchen und Meinungsfreiheit
+* Kritische Beiträge
+* Blogger sind meist Künstler oder freie Reporter
+
+===== Bezahlte Beiträge
+* zu PR Zwecken
+* Namhafte Bloger verkaufen ihre starke Reichweite
+* Besitzen oft eine starke Community
+
+
+
+
+
+

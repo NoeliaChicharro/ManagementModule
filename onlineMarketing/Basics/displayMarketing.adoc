@@ -1,0 +1,30 @@
+= Display Marketing
+
+=== Banner
+* Statische Banner/Bild-Banner
+* Animierte Banner
+* Flash-Banner
+* HTML-Banner
+* Pop-Ups
+* Flash-Layer
+
+===== Statische Banner
+* Eine der ersten Digitalen Display Werbetechniken
+* Statisches Bild
+* Geeignet für kurze Werbebotschaften
+* Erzielen immer noch hohe Klickraten
+* Fake-Banner täuschen beispielsweise Windows-Fehlermeldungen oder Scrollbars vor un verleiten
+  die Nutzer so zum Klicken.
+
+===== Flash Layer
+* öffnet sich automatisch und legt sich über den Inhalt der Webseite
+* hat transparente Ränder und kann auch in nicht rechteckigen Formaten eingesetz werden.
+* erzeugt viel Aufmerksamkeit
+* basierend auf DHTML und sind meist flash-animiert
+* könnenauch mit Ton hinterlegt sein.
+
+=== Provisionsmodell
+* Cost-per-Click (CPC): Klick auf das Werbemittel
+* Cost-per-Lead (CPL): die Kontaktaufnahme mit dem Kunden
+* Cost-per-Order (CPO) oder Cost-per-Sale (CPS): der Verkauf eines Produktes
+* Cost-per-Mile (CPM): Tausender Kontaktpreis (TKP)

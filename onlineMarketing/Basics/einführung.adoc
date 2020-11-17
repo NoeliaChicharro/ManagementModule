@@ -61,15 +61,15 @@ Fernsehens online.
 Harley Davidson ist eine Firma die es geschaft hat, reine Emotion zu verkaufen.
 
 === Instrumente
-*Bereich*
+===== Bereich
 - Social Media
 - Display Marketing
 
-*Medium*
+===== Medium
 - Facebook
 - Website
 
-*Instrument*
+===== Instrument
 - Posts, Social Adds
 - Banner, Skycraper, Rectangle
 
@@ -81,27 +81,34 @@ Harley Davidson ist eine Firma die es geschaft hat, reine Emotion zu verkaufen.
 * Welche Ressourchen stehen mir zur Verfügung?
 
 === Ziele
-*Branding, Markenaufbau*
+===== Branding, Markenaufbau
 * Besuerzahlen Webseite
 * organischer Traffic über Brand Begriffe
 * Erwähnungen auf Social Media Plattformen, Blogs & Foren
 
-*Leads*
+===== Leads
 * ausgefüllte Kontaktformulare
 * E-Mail-Kontakte
 * Telefonanrufe
 
-*Sales*
+===== Sales
 * Parnerseiten
 * Shop-Bestellungen
 * Bestellungen über Mail, Telefon, ...
 
-*Engagement*
+===== Engagement
 * Page Impressions
 * Social Media Feedback
 * Kommentare
 * Absprungraten
 * durchschnittliche Verweildauer
+
+
+
+
+
+
+
 
 
 
