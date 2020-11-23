@@ -1,0 +1,184 @@
+= DSVGO
+
+* 2012 Erste Überlegungen
+* März 2016 erste deutsche Fassung EU DSGVO
+* April 2016 Abstimmung im EU Parlament
+* 25.Mai 2018 Anwendbarkeit der EU DSGVO
+* Zukunft ePrivacy
+
+=== Ziel der DSGVO
+Vereinheitlichung des Datenschutzstandarts in Europa durch eine einheitliche und verbindliche Regelung
+für alle Mitfleiderstaaten.
+
+* Verinheitlichung des europäischen Datenschutzes
+* Anerkennung des Datenschutzes als Grundrecht: Grundrechte und Grundfreiheiten natürlicher Personen
+* Recht auf Schutz personenbezogener Daten und der freien Verkehr personenbezogener Daten
+* Lösung bis zur endgültigen ePrivacy
+
+=== Was ist DSVGO
+* DSGVO enthält 99 Artikel, unterteilt in 11 Kapitel
+* Hinzu kommen noch 173 Erwägungsgründe
+* Je nach Auslegung 60-80 Öffnungsklauseln (Gestaltungsspielraum für nationale Gesetzgeber)
+* Direkt geltendes Recht in allen Mitgeliedstaaten
+* Unterschide durch gewisse Öffnungsklauseln möglich
+* Ersetzt die besherige EU Datenschutzrichtlinie
+* In Deutschland gitb es noch die BDSG (Bundesdatenschutzgesetz) ergänzend dazu
+
+
+=== Inhalt
+* Die EU-DSGVO erfindet den Datenschutz nicht neu
+* Prinzipien der Transparenz, Erforderlichkeit, Zweckbindung und Datensparsamkeit bleiben erhalten
+* Regelung zur Drittstaatenübermittlung
+* Weiterhin Verbot mit Erlaubnisvorbehalt
+* Hohe Bussgeldvorschriften und Klagemöglichkeiten erzwingen Einhalten
+* Rechenschaftspflicht Art. 5 EU-DSGVO Zukünftig gefordert: Datenschutz-Gesamtkonzept,
+  regelmässige Kontrolle und Weiterentwicklung: all dies muss belegt werden können.
+* Massnahmen für den Datenschutz müssen schon in den frühsten eEntwicklungsstufen bei Produkten
+  und Services eingebunden werden.
+
+
+== Wo und für wen gilt die DSGVO
+
+=== Marktortprinzip
+* Im Rahmen der Tätigkeit einer Niederlassung eines Verantwortlichen oder eines Auftragverarbeiters
+  in der Union (Art. 3 Abs. | EU-DSGVO) Tatsächlicher Ort der Datenverarbeitung ist nicht massgeblich.
+* Angebot von Waren oder Dienstleistungen durch einen nicht in der UNION niedergelassen Verantwortlichen
+  oder Auftragsverarbeiter gegenüber betroffene Personen, die sich in der Union befinden.
+  (Art. 3 Abs. || EU-DSGVO) -> unabhängig von der Zahlungspflicht
+* Das Verhalten betroffener Personen beobachten soll, soweit ihr Verhalten in der Union erfolgt
+* Keine Änderung des räumlichen Anwendungsbereichs durch Vertrag möglich
+* One-Shop Prinzip (Zuständigkeit der lokalen Aufsichtsbehörde)
+
+=== One Stop Shop
+Nach Art. 56 Abs. 6 DSGVO ist bei grenzüberschreitender Datenverarbeitung die sog. federführende
+Aufsichtsbehörde alleiniger Ansprechspartner des Verantwortlichen bzw. des Auftragsverarbeiters.
+Dies bedeutet, dass Unternehmen bei grenzüberschreitenden Datentransfers/- verarbeitungen künftig
+nur noch einen Aprechpartner für die Beurteilung der datenschutzrechtlichen Belangen haben werden,
+auf dessen Aussagen sie sich dann auch verlassen dürfen.
+
+=== Legaldefinition
+* "Personenbezogene Datne" alle Informationen, die sich auf eine identifizierte oder identifizierbare
+  natürliche Person beziehen.
+
+Als identifizierbare Person wird eine natürliche Persion angesehen, die direkt, indirekt, jedoch insbesondere
+mittels Zuordnung zu einer Kennung wie einem Namen. Zu einer Kennummer, zu Standortdaten, zu
+einer Online-Kennung oder zu einem oder mehreren besonderen Merkmalen, die Ausdruck der physischen,
+physiologischen, genetischen, psychischen, wirtschaftlichen, kulturellen oder sozialen Identität dieser
+natürlichen Person sind, identifiziert werden kann.
+
+* Online-Kennungen z.B. Ip Adresse, Cookies, falls diese zu betroffenen Person zurückverfolgt werden
+* Indirekte Informationen
+* Es gibt keine Unerscheidung zwischen personenbezogenen Daten einer Person in ihrer jeweiligen
+  privaten, öffentlichen oder berufsbezogenen Rolle -> alle unterliegen dieser Verordnung
+
+=== Ausnahmen
+* private und familiären Lebensbereich (Bsp.: private Onlinetätigkeiten, private Nutzung sozialer Netzwerke)
+* Verhältnis zu E-Commerce Richtlinie Art. 2 Abs. 4 EU-DSGVO
+
+=== Personendaten
+* IP-Adresse
+* Geräte und Kartenkennung (UDID, IMEI, MAC-Adresse ...)
+* Mobilfunknummer (MSISDN)
+* Name des Telefons
+* Standortdaten
+* Fotos/Videos/Audiodateien
+* Biometrische Daten
+* Nutzungsdaten
+* Kontaktdaten
+* Regierungsdaten
+* Anruflisten
+* Nachrichten
+* Kontoverbindungen
+
+=== Einwilligung Miderjähriger
+Werden Daten von Minderjährigen oder besonders sensible Daten(bsp.: Gesundheitsdaten in Sport-Apps
+oder Informationen zur sexuellen Orientierung in Dating-Apps) verarbeitet, muss eine entsprechende
+Einwilligung weiteren strengen Anforderungen genügen.
+
+Bei Minderjährigen unter 16 kann beispielsweise die Einwilligung der Erzeihungsbrechtigten erfolderlich sein.
+
+=== Aufklärungspflicht
+* Identität und Kontaktdaten des Unternehmens hinter der Datenanforderung
+* Zweck der Erhebung und Verwendung der Daten
+* Ggf iternationale Übertragung der Daten
+* Zeitraum der Datenspeicherung
+* Recht auf Dateneinsicht und -löschung
+* Widerfufungsrecht
+* Recht eine Beschwerde einzulegen
+
+=== Sanktionen
+* Bis zu 20 Mio Euro
+* Unternehemn bis  4% des weltweiten Jahresumsatzes
+* Nebenbei Klagerecht der Betroffenen
+
+=== Datenlöschung
+* Soblad die Speicherung as fachlichen Gründen nicht mehr notwendig ist
+* wenn ein Betroffener seine Einwilligung zurückzieht
+* bei unrechtmössiger Verarbeitung der Daten
+* Umsetzung des Rechts auf Vergessen
+* Wenn Daten an Dritte weitergegeben oder Veröffentlicht wurden, müssen Löschungsanfragen weitergegeben werden
+* Wenn Daten ohne Zustimmung weitgergeben wurden, muss eine Löschung für den Betroffenen durchegesetzt werden.
+
+=== Was ist zu tun (EU)
+* Überprüfung / Überarbeitung der Einwilligungen (update der Bestands-Opt-In)
+* Anpassungen Impressum & AGBs
+* Implemantierung der Informationsrechte
+* Implementierung des "Rechts auf Vegessen werden"
+* Implementierung der Datenübertragbarkeit
+* Social Media Buttons
+  Falls ein Plugin verwendet wird, darf es keine Daten unverschlüsselt senden. Ggfls. löschen und durch ein
+  Sicheres Plugin ersetzen.
+* Angemessene technische und organisatorische Massnahmen.
+* Überprüfung der Auftragsverarbeitungsvereinbarung
+* Datenschutz-Folgeabschätzungen (Art. 35 )
+* Verzeichnis der Verarbeitungstätigkeit (Art. 30)
+* Ggf. Anpassungen Auschreibungsunterlagen
+* Verfolgen der Entwicklung bezgl. ePrivacy VO
+* Webhoster (ISP), E-Mail Hoster
+  Vertrag zur Auftragsdatenverarbeitung (AV) abschliessen
+* Google Fonts -> Datenübertragung unterbinden
+* Google Analytics
+    -> Anonymisiertung der IP-Adresse
+    -> Opt-out Cookie für Desktop
+    -> Vertrag zu Auftragsdatenverarbeitung mit goole
+    -> Infomationen in Datenschutzerklärung
+* Kommentarfunktion
+    -> IP-Adresse entfernen
+* Kontaktformular
+    -> Checkbox für die Zustimmung zur Verwendung personenbezogener Daten einfügen
+
+=== Was ist zu tun (CH)
+* Möglichkeit für Opt-out Cookies auf der Website anbieten bzw. erklären wie sich dies umsetzen lässt.
+* Man darf Cookies (auser jenen die für die Verwendung der Seite für einen User unverzichtbar sinf) erst einsetzten, nachdem der Nutzer die Einstimmung gegebn hat.
+* Man benötigt eine genaue/korrekte Datenschutzerklärung auf der Webseite.
+* Google Analytics
+* ...
+* Kontaktformular
+* beim Kontaktformular auf die Datenschutzrichtlinien hinweisen
+* Persönlcihe Daten müssen verschlüsselt und sicher gespeichert und übermittelt werden.
+* festhalten, wer Zugriff
+* ...
+* Man benötigt die aktive Einwilligung der Nutzer, um den Newsletter zu senden (passive Einwilligung reicht nicht mehr)
+* Man muss zeigen können, wann und wo jemand für einen Newsletter zugestimmt hat.
+* Ernennung einer Datenschutzbeauftragten
+
+=== Die 6 Fragen
+* Zu welchem Zweck werden die Daten gehalten?
+* Wie haben ich die Daten bekommen?
+* Was war der ursprüngliche Zweck der Beschaffung?
+* Wie lange will man die Daten behalten?
+* Sind sie sowohl hinsichtlich der Verschlüsselung als auch der Zugägnlichkeit sicher?
+* Werden die Daten mit Dritten geteilt, wenn ja, wofür?
+
+
+
+
+
+
+
+
+
+
+
+
+

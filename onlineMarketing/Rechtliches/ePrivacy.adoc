@@ -1,0 +1,31 @@
+= ePrivacy
+
+=== Was ist die ePrivacy
+* Die ePrivacy-Verordnung (ePVO) soll Privatpersonen und Unternehmen schützen
+* Ist eine Art Spezialgesetz, das die DSGVO erweitern soll
+* Sie löst die e-privacy-Richtlinie ab, die der deutsche Gesetzgeber grösstenteils im Telemediengesetz (TMG) und Telekommunikationsgesetz (TKG) umsetzte
+* Gilt nach ihrem Inktafttrerren sofort innerhalb der gesammten Europäischen Union
+
+=== Was verändert sich?
+* Die Artikel in der ePrivacy-Verordnung sollen vorhandene Regelungslücken schliessen
+* Die Mitgliedsstaaten setzen die Artikel der E-Privacy-Richtlinie in nationale Gesetz um. In Deutschland geschah das über das Telemediengesetz (TMG) und das Telekommunikationsgesetz (TKG).
+* Da es sich um eine Verordung und nicht um eine Richtlinie handelt, ist die ePrivacy-Verordnung nach ihrem Inkrafttreten sofort in allen Mitgliedsstaaten wirksam.
+
+===== Beispiel
+Es kommen neue Techniken auf, die das Online-Verhalten des Nutzers tracken. Die bisherige Richtlinie erfasst diese Technik noch nicht.
+
+* Regelt, unter welchen Voraussetzungen die Betreiber elektronischer Kommunikationsnetzte Daten speichern dürfen.
+* Beinhaltet auch Vorgaben für den Telekommunikationssektor. Sie schreibt vor, wie Provider Rufnummern anzeigen und unterdrücken oder Anrufe sperren müssen
+
+=== Wann tritt es in Kraft?
+* Die ePrivacy-Verordnung sollte ursprünglich zusammen mit der EU-Datenschutzgrundverordnung in Kraft treten. Sie erscheint aber nun voraussichtlich im Jahr 2020.
+
+=== Wer ist besonders davon betroffen?
+===== Besonders betroffen sind Unternehmen die Datenerhebung machen.
+* Onlineshops
+* Händler
+* Unternehmen, die Tracking-Methoden nutzen oder Marketing-Massnahmen durchführen
+* Call Centers
+* Multilevel Marketing Unternehmen
+* Staat
+
