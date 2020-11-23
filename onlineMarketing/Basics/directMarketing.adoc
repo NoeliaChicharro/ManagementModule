@@ -6,21 +6,21 @@
 * Wählen Sie eine kurze Betreffzeile
 * Das Wichtigste zuerst: Neugierde wecken!
 * Verwenden Sie Ihren Firmennamen als Absenderadresse (nicht firmenname@bluewin.ch)
-* Spechen Sie den Nutzer direkt an!
+* Sprechen Sie den Nutzer direkt an!
 * Für mobile Nutzung optimieren
 * Spam-Begriffe vermeiden wie "kostenloses Angebot"
 
 ===== Rechtliche Vorgaben
-* eine der am häufigsten abgemahnten Merketing-Formen
+* eine der am häufigsten abgemahnten Marketing-Formen
 * Opt-Out-Erklärung
 * Double-Opt-In-Verfahren
 * Nachweis der Einwilligung
 
 ===== Freeware Newslettersystem Anbieter
-* Cleverreach
+* Clever-reach
 * Mailchimp
 * Clever Elements
-* Rapidmail
+* Rapid-mail
 * Newsletter2Go
 
 ===== 10 Minuten Mail

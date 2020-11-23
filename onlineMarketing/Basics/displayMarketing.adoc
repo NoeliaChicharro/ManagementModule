@@ -21,7 +21,7 @@
 * hat transparente Ränder und kann auch in nicht rechteckigen Formaten eingesetz werden.
 * erzeugt viel Aufmerksamkeit
 * basierend auf DHTML und sind meist flash-animiert
-* könnenauch mit Ton hinterlegt sein.
+* können auch mit Ton hinterlegt sein.
 
 === Provisionsmodell
 * Cost-per-Click (CPC): Klick auf das Werbemittel

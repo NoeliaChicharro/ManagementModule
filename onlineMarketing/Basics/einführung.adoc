@@ -75,14 +75,14 @@ Harley Davidson ist eine Firma die es geschaft hat, reine Emotion zu verkaufen.
 
 === Welche Medien und instrumente sind wichtig.?
 * Man muss nicht überall vertreten sein!
-* Auf welchem Kanal erreiche ich meien Zielgruppe
+* Auf welchem Kanal erreiche ich meine Zielgruppe
 * Welcher Content steht zur Verfügung?
-* Welches Medium bietet Mehrwert für den (potentiellen) Kunden?
-* Welche Ressourchen stehen mir zur Verfügung?
+* Welches Medium bietet Mehrwert für den (potenziellen) Kunden?
+* Welche Ressourcen stehen mir zur Verfügung?
 
 === Ziele
 ===== Branding, Markenaufbau
-* Besuerzahlen Webseite
+* Besucherzahlen Webseite
 * organischer Traffic über Brand Begriffe
 * Erwähnungen auf Social Media Plattformen, Blogs & Foren
 
@@ -92,7 +92,7 @@ Harley Davidson ist eine Firma die es geschaft hat, reine Emotion zu verkaufen.
 * Telefonanrufe
 
 ===== Sales
-* Parnerseiten
+* Partnerseiten
 * Shop-Bestellungen
 * Bestellungen über Mail, Telefon, ...
 
