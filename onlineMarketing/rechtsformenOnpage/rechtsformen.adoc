@@ -1,0 +1,137 @@
+= Rechtsformen
+
+=== Öffentlich-rechtliche
+* Anstalten
+* Körperschaften
+* Stiftungen
+
+=== Privatrechtliche
+* Einzelunternehmen
+* Gesellschaften
+
+===== Gesellschaften
+* Personengesellschaften (Einfache Gesellschaft, Kollektivgesellschaft, Kommanditgesellschaft)
+* Kapitalgesellschaften (AG, GMBH)
+
+
+|===
+| |Einzelunternehmen |Kollektivgesellschaft |GmbH |AG
+
+|Rechtsgrundlagen
+|keine besonderen Vorschriften
+|Art. 552-593 OR
+|Art. 772-827 OR
+|Art. 620-763 OR
+
+|Typisches Profil
+|Unternehmen, deren Tätigkeit stark mit der inhabenden Person verbunden ist (Arzt, Architekt usw.)
+|kleine Firmen, deren Tätigkeiten stark auf mehrere Gesellschafter bezogen sind (Hnadwerksbetriebe uws.)
+|kleine und mittelgrosse personenbezogene Kapitalgesellschaften
+|gewinnorientierte Firmen mit hohem Kapitalbedarf
+
+|Rechtsnatur
+|alleiniger Inhaber
+|Personengesellschaft
+|juristische Person
+|juristische Person
+
+|Haftung der Inhaber
+|persönliche und unbeschränkte Haftung für sämtliche Schulden
+|persönliche, unbeschränkte und solidarische Haftung der Gesellschafter für sämtliche Schulden
+|keine Haftung der Gesellschafter(corausgesetzt, die Stammanteile wurden voll einbezahlt)
+|keine Haftung der Aktionäre (vorausgesetzt, die Aktien wurden voll einbezahlt)
+
+|Firmenname
+|vv
+|vvv
+|vvv
+|vvv
+
+|Mindestanzahl Gründungsperson
+|vv
+|vvv
+|vvv
+|vvv
+
+|Schweizerische Staadsangehörigkeit und Wohnsitz in der Schweit
+|vv
+|vvv
+|vvv
+|vvv
+
+|Besteuerung
+|vv
+|vvv
+|vvv
+|vvv
+
+|Vorteile
+|schnelle und einfache Gründung, kein Mindestkapital erfoderlich, keine doppelte Gewinnbesteuerung, keine Revisionsstelle
+|relativ einfache Gründung, kein Mindestkapital erfolderlich, interne Struktur und beteiligungsregelung flexibel
+|vv
+|vvv
+
+|Nachteile
+|vv
+|vvv
+|vvv
+|vvv
+
+|Mindestkapital
+|kein Mindestkapital
+|kein Mindestkapital
+|CHF 20'000(der Mindestwert eines Stammantiels beträgt CHF 100)
+|CHF 100'000 (CHF 50'000 einbezahlt; der Mindestwert einer Aktie beträgt CHF 0,01)
+
+|Gründung
+|vv
+|vvv
+|vvv
+|vvv
+
+|Buchführungspflicht
+|vv
+|vvv
+|vvv
+|vvv
+
+|Revisionsstelle
+|nicht obligatorisch
+|niht obligatorisch
+|eingeschränkte Revision obligatorisch ab zehn Mitarbeiter
+|erngeschränkte Reision obligatorisch ab zehn Mitarbeiter
+
+|===
+
+=== Ab wann macht, es Sinn eine AG zu gründen anstelle einer GmbH?
+* Hoher Anlagewert / Anschaffungswert
+* Grosses Investment
+* Mehrere Kapitalvorschriften
+* Geringere Haftungsrisiken für die natürlichen Personen
+* HINWEIS: Eine Umwandlung von einer Gmbh in eine AG ist jederzeit möglich.
+
+=== Wie geht man bei der Gründung einer juristischen Person vor?
+1. Einigung über den Firmennamen und die Stammanteile/Aktien aller Beteiligten.
+2. Statuten erstellen: Rechtsform mit Sitz, Stammkapital, Geschäftstätigkeiten(en)/Zweck, Geschäftsbereich(e), Geschäftsführer definieren
+3. Bestimmung der Geschäftsniederlassung
+4. Sperrkonto bei der Bank eröffnen und die Stammanteile einbezahlen. Alle Gesellschafter müssen anwesend sein
+5. Gesellschafterverinbarung und HR Eintrag durch den Notar
+6. HR Eintrag abwarten
+7. Sperrkonto mittels HR Auszug auflösen und die Stammanteile auf ein KapitalKonto überschreiben
+8. Ab Eintrag im HR gilt die Unternehmensform als rechtsgültig und ist haftbar. Davor sind die Gesellschafter privat haftbar
+9. Abschliessen von Versicherungspolicen
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
