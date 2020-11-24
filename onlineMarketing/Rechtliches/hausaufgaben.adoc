@@ -1,0 +1,37 @@
+= Fragen zur Überprüfung Ihres Wissensstandes
+
+1. Welches sind die zentralen rechtlichen Grundlagen des Online-Marketings?
+
+    Es gibt kein einheitliches "Online-Marketing-Gesetz". Jedoch gilt das DSGVO.
+    Zudem kommen in Deutschland, das Telemediengesetz (TMG), Rundfunkstaatsvertrag (RStV), das Wettbewerbsrecht mit dem Gesetz fegen den unlauteren Wettbewerb (UWG), das Zivilrecht, das Urheberrecht mit dem Urheberrechtsgesetz (UrhG), das Kennzeichenrecht mit dem Markengesetz (MarkenG) un das Datenschutzrecht hinzu.
+
+2. Von welchem Grundsatz ist das Online-Marketing-Recht geprägt?
+
+    Was offline gilt, gilt prinzipiell auch online!
+
+3. Welche rechtlichen Anforderungen sind bei der Gestaltung von Corporate Websites zu berücksichtigen?
+
+    Anbieterkennzeichnung, Fremde Inhalte, Cookies, Links
+
+4. Welche Aspekte sind bei der Anbieterkennzeichnung relevant?
+
+    Der Anbieter der Website sollte klar gekennzeichnet sein, d.h. bei Firmen muss neben dem Firmennamen auch der Geschäftsführer genannt werden. Dies kann in Form eines Formulares und Impressums geschehen. In der Regel gilt, dass die Kontaktaufnahme mit weniger als 3 Klicks erfolgen muss. Auch das Impressum muss einfach gefunden werden und darf nicht zu viel klicken oder scrollen beinhalten. Jeder Seitenkrator ist verpflichted eine Anschrift oder andere Kontaktangaben zu machen. Eine einfache E-Mail oder Telefonnummer reichen nicht, es muss mehr gezeigt werden. Weiter müssen, falls vorhanden, aufgeführt werden: Aufsichtsbehörde, Registrierungsinformation (Handelsregister, Vereinsregister, Partnerschaftsregister oder Genossenschaftsregister), zusätzliche Angaben bei freien Berufen, Identifikationsnummern (Umsatzsetueridentifikationsnummer, Wirtschaftlicheidentifikationsnummer), Liquidationsverfahren
+
+5. Was ist bei der Übernahme fremder Inhalte sowie beim Linking zu berücksichtigen?
+
+    Bei der übernahme fremder Inhalte, sollte daruf geachted werden, dass die Urheberrechtsgesetze nicht verletzt werden. Man sollte sich auch nicht blind auf einen Lizenzgeber verlassen sondern die Inhalte am bestens selbst überprüfen. Dies gilt vorallem für Bilder, Grafiken, Texte, usw. Sollten auf Bildern Personen zu sehen sein, muss die Einwilligung der jeweiligen Person eingeholt werden. Texte können unter Umständen, mit Quellenangabe genutz werden.
+
+    Beim Linking sollte man vorallem darauf achten, dass die Inhalte der Verlinkung keine Gesetzesverstösse aufweisen. Dies kann Stichprobenartig getested werden. Sollte der Fall auftretten, das Inhalte der Verlinkung, gegen das Gesetz verstossen, muss die Verlinkung sofort entfert werden.
+
+6. Welche rechtlichen Anforderungen sind bei der Banner-Werbung zu berücksichtigen?
+
+    Banner-Werbung sollte im allgemeinen sichrbar vom redaktionellen Teil getrennt sein. Der Nutzer muss klar erkennen können das dies kein Seiteninhalt sondern Werbung ist. Sollte dies nicht der Fall sein, empfielt es sich den Banner als Werbung zu kennzeichnen. Rechtlich unzulässig sind sogenannte Fake-Banner, welche nicht klar als Werbung erkennbar sind und den Nutzer unbewusst beinflussen. Zudem darf der Banner nicht den wesentlichen Inhalt der Werbeträgerseite verdecken, solle dies dennoch der Fall sein, muss der Banner leicht schliessbar sein. Auch zu beachten ist der Inhalt des Banners, dieser sollte nicht jugendgefährdent sein.
+
+7. Was muss bie der Ausgestaltung des Keyword-Advertisings berücksichtigt werden?
+
+    Hier muss darauf geachted werden, dass dem Nutzer nicht vorgekaukelt wird, dass er ein anderes Produkt anschaut. Was soviel heisst wie, das verwenden von Markennamen ist in den Keywords erlaubt, darf aber nicht zu vermittlen das ein original Produkt verkauft wird.
+
+8. Welche rechtlichen Anforderungen muss das Affiliate-Marketing berücksichtigen?
+
+    Hier unterscheidet man zwischen dem einstufigen Affiliate-System und dem zweistufigen Affiliate-System. Bei ersterem besteht eine direkte Beziehung zwischen dem Werber und dem Werbeträger. Bei letzerem ist noch ein Netzwerkbetreiber dazwischen. Vorwiegend gilt, wichitg ist das ein Vertrag vorhanden ist, da sonst unstimmigkeiten entstehen können und die allegemenen Regelungen nicht alles abdecktn.
+
