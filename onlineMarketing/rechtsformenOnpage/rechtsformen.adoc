@@ -42,40 +42,40 @@
 |keine Haftung der Aktionäre (vorausgesetzt, die Aktien wurden voll einbezahlt)
 
 |Firmenname
-|vv
-|vvv
-|vvv
-|vvv
+|muss den Familiennamen des Inhabers enthalten
+|frei wählbar
+|frei wählbar, der Zusatz "GmbH" ist jedoch obligatorisch
+|frei wählbar, der Zusatz "AG" ist jedoch obligatorisch
 
 |Mindestanzahl Gründungsperson
-|vv
-|vvv
-|vvv
-|vvv
+|1 natürliche Person (Inhaber)
+|2 natürliche Personen (Gesellschafter)
+|1 natürliche oder juristische Person (Gesellschafter)
+|1 natürliche oder juristische Person (Aktionär)
 
 |Schweizerische Staadsangehörigkeit und Wohnsitz in der Schweit
-|vv
-|vvv
-|vvv
-|vvv
+|nicht obligatorisch, aber Arbeits- und Aufenthaltsbewilligung erforderlich
+|nicht obligatorisch, aber Abreits- und Aufenthaltsbewilligung erforderlich
+|mindestens ein Geschäftsführer oder ein Direktor muss seinen Wohnsitz in der Schweiz haben
+|mindestens ein VR-Mitglied oder ein Direktor muss seinen Wohnsitz in der Schweiz haben
 
 |Besteuerung
-|vv
-|vvv
-|vvv
-|vvv
+|Der Inhaber muss sein Einkommen sowie sein berufliches und privates Vermögen versteuern
+|Jeder Gesellschafter muss seinen Anteil an den Erträgen und am Vermögen der Firma sowie sein privates Einkommen und Vermögen versteuern
+|Die GmbH wird als juristische Person besteuert. Wenn sie Gewinn macht und diese in Form von Dividenden ausschüttet, werden sowohl die Gesellschaft als auch die einzelnen Gesellschafter besteuert (Doppelbesteuerung)
+|Die AG wird als juristische Person besteuert. Wenn sie Gewinn macht und diesen in Form von Dividenden ausschüttet, werden sowohl die Gesellschaft als auch die einzelnen Aktionäre besteuert (Doppelbesteuerung)
 
 |Vorteile
 |schnelle und einfache Gründung, kein Mindestkapital erfoderlich, keine doppelte Gewinnbesteuerung, keine Revisionsstelle
 |relativ einfache Gründung, kein Mindestkapital erfolderlich, interne Struktur und beteiligungsregelung flexibel
-|vv
-|vvv
+|keine persönliche Haftung für Schulden, relativ geringes Mindestkapital, kann ohne vorherige Auflösung in einer AG umgewandelt werden
+|keine persönliche Haftung für Schulden, Gesellscahftsanteile leicht handelbar, Anonymität der Aktionäre möglich, hohe Vertrauenswürdigkeit bei Gläubigern Lieferanten und Kunden
 
 |Nachteile
-|vv
-|vvv
-|vvv
-|vvv
+|unbeschränkte persönliche Haftung, kein Anspruch auf Arbeitslosenentschädigung, Schwierigkeiten bei der Kreditvergabe, Schutz des Firmennamens gebietsmässig beschränkt, Schwierigkeiten bei der Übertragung
+|unbeschränkte persönliche Haftung, kein Anspruch auf Arbeitslosenentschädigung, Mitspracherecht aller Gesellschafter kann die unternehmerische Flexibilität beeinträchtigen
+|Gründungs- und Verwaltungskosten, doppelte Gewinnbesteuerung, Revisionsstelle, Anonymität der Gesellschafter unmöglich, weniger vertrauenswürdig bei Gläubigern, Lieferanten und Kunden als eine AG
+|Gründungs- und Verwaltungskosten, doppelte Gewinnbesteuerung, Revisionsstelle
 
 |Mindestkapital
 |kein Mindestkapital
@@ -84,8 +84,8 @@
 |CHF 100'000 (CHF 50'000 einbezahlt; der Mindestwert einer Aktie beträgt CHF 0,01)
 
 |Gründung
-|vv
-|vvv
+|durch die Aufnahme einer wirtschaftlichen Tätigkeit; Eintragung im Handelsregister obligatorisch ab 100'000 Jahreseinkommen; Status als Selbstständiger durch die Anmeldung bei der AHV
+|durch die Eintragung im Handelsregister und den Abschluss einer Gesellschaftsvertrags (dieser ist freiwillig, aber sehr )
 |vvv
 |vvv
 

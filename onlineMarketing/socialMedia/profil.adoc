@@ -1,0 +1,77 @@
+= Profil
+
+=== Profilname
+* 1:1 den Namen des Unternehmens (Firma) / Produkt darstellen
+-> Sollte der Name bereits vergeben sein, arbeite mit Zeichen, wie "_" für Abstand oder mit der juristischen Abkürzung
+
+=== Profilbeschreibung
+* Kurz und verständlich, was das Unterneheme oder Produkt für Leistungen und Eigenschaften hat
+* Vermeide Slogans oder Claims die nichts aussagen.
+
+=== Profilbild
+* Das Logo gut ersichtlich und auf Beitragsansicht zugeschnitten
+* Je nachdem Logo bewusst für Social Media zwecken modifizieren
+
+=== Headerbild
+* Verwende das Headerbild als Werbefenster Bilder/Video
+* Bilder mit Aussagekraft
+* Bilder modifizieren mit Werbetext
+
+=== Moderation
+* An Plattformen ANPASSEN
+* Regelmässig POSTEN
+* Aufmerksamkeit ERREGEN
+* In beide Richtungen KOMMUNIZIEREN
+* UHRZEIT
+* Content MISCHUNG
+
+=== Gib Acht auf...
+* Wort halten/verlässlich sein
+* Authentisch sein
+* Monitoring
+* Daten - Profileinstellungen prüfen (SoMe Plattformen)
+* Persönliche Einstellung zu Öffentlichkeit prüfen
+* Offline Handlungen prüfen
+* Eigene Inhalte (Spam) prüfen
+* User merken
+* Account / Profil Design
+* Rechtschreibung
+* Zeitpunkt Publikation
+* Krisenvorbereitung
+* Content Strategie
+* Zielgruppe kennen
+
+=== Moderation
+* kommuniziere in Singular
+* Entwickle eine Corporate Communication für SoMe und kommuniziere einheitlich
+* Erreiche merh mit Video oder Bildsprache
+* Menschen berühren Menschen
+* Kommuniziere zeitgemäss und zur richtigen Zeit
+* Vermeide das tagieren von Tabu-Themen -> Religion, Politik, ethische Grundsätze etc.
+* Tage die Personen/Firmen/Marken im Bild mittels @
+* Versuche mittels Fragen eine interaktion zu schaffen
+* Externe Verlinkung für mehr Informationen
+* Verwende Hashtags
+* Content mit Schlagwörter/Signalwörter
+* Vermeide Werbetexte -> Content soll informativ sein
+* Humor passt immer, jedoch vermeide Sarkasmus
+
+
+===
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
