@@ -10,13 +10,24 @@
 ===== Branding, Markenaufbau
 * Besuerzahlen Webseite
 * organischer Traffic über Brand Begriffe
-* Erwähnungen
+* Erwähnungen auf Social Media Plattformen, Blogs & Foren
 
 ===== Leads
+* ausgefüllte Kontaktformulare
+* E-Mail-Kontakte
+* Telefonanrufe
 
 ===== Sales
+* Partnerseiten
+* Shop-Bestellungen
+* Bestellungen über Mail, Telefon, ...
 
 ===== Engagement
+* Page Impressions
+* Social Media (Facebook & Co)
+* Kommentare
+* Absprungraten
+* durchschnittliche Verweildauer
 
 === Risiken des Social Media Marketings
 * Nettiquette & Richtlinien
@@ -28,6 +39,22 @@
 === Generelle Ziele
 ===== Quantitative Ziele
 * Alles was in Zahlen Messbar ist
+* Anzahl User Engagement
+* Anzahl Conversions
+* Zunahme Absatz in %
+* Kosten / Budget
+* community growth in %
+* ...
+
+===== Qualitative Ziele
+* Was nicht in Zahlen Messbar ist
+* Bekanntheitsgrad
+* Image
+* Qualität
+* Vertrauen
+* Kundenzufriedenheit
+* User
+* ...
 
 ===== B2C (Business to Customer) & B2B (Business to Business) = H2H (Human to Human)
 
@@ -97,17 +124,23 @@
 ===== Impressionen
 Sie besagen, wie oft eine Anzeige auf der Suchergebnisseite eingeblendet wurde. (Ob ein Nutzer sie tatsächlich anschaut bzw. wahrnimmt oder nicht kann gemessen werden.)
 
-===== adsf
+===== Klicks
+Gibt an, wie oft auf eine Impression ein Klick auf die Anzeige folgte. Da der Klick den Nutzer auf deine Seite leitet, entspricht diese Zahl gleichzeitig den Besuchern, die du mit der Anzeige gewinnen konntest. In AdWord fallen erst im Moment des Klicks Kosten an (Impressions sind umsonst), da man pro Klick Bezahlt.
 
 ===== CTR
+Sie ist das Verhältnis von Klicks zu Impressionen, also wie viele Impressionen in Klicks münden. Sie gibt in Prozent an, wie oft Nutzer, die eine Bestimmte Anzeige sehen, schliesslich darauf klicken. Oft wird sie einfach mit CTR abgekürzt für Click-Through-Rate. Sie wird errechnet, indem die Anzahl der Klicks durch die Anzahl der Impressionen dividiert wird. Eine hohe CTR ist von besonderer Bedeutung,, da diese Grösse als debeutendster Indikator für Relevanz in den Qualitätsfaktor mit einfliesst. Merkt dir das!
 
 ===== Cost-per-Click (CPC)
+Entspricht den realen Kosten, die man für einen Klick auf eine Anzeige bezahlt. Errechnet wird der CPC indem man die Kosten durch die Klicks teilt.
 
 ===== Conversion
+Gibt an, wie häufig eine gewünschte Handlung ausgeführt wird - diese kann ein Kauf, eine Anmeldung, ein Download, eine Registrierung etc. sein. Die Anzahl an Conversions ist ein Indiz dafür, wie fut die Gesamtqualität der Kampagne von der Kundenansprache bis zum Abschluss ist.
 
 ===== Conversionrate (CVR)
+Besagt, wie viele der Klicks letztdlich zu einer Conversion geführt haben. Die CRV entspricht der Anzahl der Conversions dividiert durch die Anzahl an Klicks.
 
 ===== Cost-per-Conversion
+Besagt, wie viele Ausgaben für das Erzielen einer Conversion erforderlich waren.
 
 === Voraussetzungen
 * Ressourcen: personell, zeitlich, finanziell
@@ -117,7 +150,7 @@ Sie besagen, wie oft eine Anzeige auf der Suchergebnisseite eingeblendet wurde. 
 
 === Welche Kanäle sind wichtig?
 * Man muss nicht überall vertreten sein!
-* Auf welchem Kanal erriche ich meine Zielgruppe?
+* Auf welchem Kanal erreiche ich meine Zielgruppe?
 * Welcher Content steht zur Verfügung?
 * Welcher Kanal bietet Mehrwert für den (potentiellen) Kunden?
 * Welche Ressourcen stehen mir zur Verfügung?

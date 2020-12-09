@@ -1,0 +1,88 @@
+Kostenvoranschlag für Projekt:
+------------------------------------------------------------------------------------------
+Untenstehende Zahlen basieren auf meiner Schätzung, welche ich auf Grund meines aktuellen Informationsstands vorgenommen habe.
+Sollte es an der Ausgangslage (Umfang der vorzunehmenden Arbeiten, Features, administrativer Aufwand, Anzahl der Sitzungen, etc.) grundlegende Änderungen geben, würde ich gerne dafür einen weiteren Kostenvoranschlag nachreichen.
+------------------------------------------------------------------------------------------
+Dieser Kostenvoranschlag ist gültig bis
+------------------------------------------------------------------------------------------
+Beratung
+CHF
+------------------------------------------------------------------------------------------
+Beratung für Suchmaschinenoptimierung (SEO)
+- Definition von Key-Words
+- Analyse des bestehenden Codes
+- Verbesserungsvorschläge für die Texte
+CHF
+------------------------------------------------------------------------------------------
+Projektleitung
+CHF
+------------------------------------------------------------------------------------------
+Bildbearbeitung: Skalieren, Zuschneiden und Komprimieren von Bildern
+CHF
+------------------------------------------------------------------------------------------
+Erstellen Farbkonzept und Screen Design (3 Vorschläge, Präsentation beim Kunden)
+- Startseite
+- Inhaltsseite
+- Formular
+- Tabellen
+- Typografisches Konzept
+- Andeuten einer "Bildwelt", Suchen von Beispielbildern
+CHF
+------------------------------------------------------------------------------------------
+Schreiben von CSS
+CHF 
+------------------------------------------------------------------------------------------
+Erstellen eines HTML Templates (= Vorlage)
+CHF 
+------------------------------------------------------------------------------------------
+Erweiterungen am HTML- und CSS-Code für "responsive Design", Tests auf verschiedenen Ausgabegeräten (Smart Phones, Tablets, ältere Browserversionen)
+CHF
+------------------------------------------------------------------------------------------
+Erstellen von XX statischen HTML-Seiten
+CHF
+------------------------------------------------------------------------------------------
+Erfassen von Inhalten, XX Seiten
+CHF
+------------------------------------------------------------------------------------------
+Download, Installation und Konfiguration von Joomla (Open-Source CMS)
+CHF 300.-
+------------------------------------------------------------------------------------------
+Erstellen der Inhaltsstruktur mit "Joomla-Kategorien" und Erstellen Navigation
+CHF 
+------------------------------------------------------------------------------------------
+Erstellen eines Joomla-Moduls für
+CHF 
+------------------------------------------------------------------------------------------
+CMS-Schulung beim Kunden
+CHF
+------------------------------------------------------------------------------------------
+XX Sitzungen beim Kunden (XX Stunden)
+CHF
+------------------------------------------------------------------------------------------
+Erstellen von Joomla-Templates und Schreiben von CSS dafür
+CHF
+------------------------------------------------------------------------------------------
+JavaScript-Programmierarbeiten:
+CHF
+------------------------------------------------------------------------------------------
+Programmierung Kontaktformular (mit Validierung der Benutzereingaben)
+CHF
+------------------------------------------------------------------------------------------
+PHP-Programmierarbeiten:
+CHF
+------------------------------------------------------------------------------------------
+Datenbank-Programmierung
+CHF
+------------------------------------------------------------------------------------------
+Administration, Qualitätskontrolle, Browsertests
+CHF 
+------------------------------------------------------------------------------------------
+Voraussetzungen für diese Preisberechnung:
+- Ich erhalte die Texte in elektronischer Form
+- Die Texte liegen in der definitiven Fassung vor
+- Die Auswahl der Bilder ist Sache des Kunden
+- Grundsätzliche Änderungen am Design oder Farbkonzept nach Projektende werden zusätzlich verrechnet
+- Vor der Umsetzung des Projektes wird die Inhaltstruktur in tabellarischer Form definiert
+------------------------------------------------------------------------------------------
+Vielen Dank für das Interesse an meiner Arbeit. Ich würde diesen Auftrag gerne für Sie ausführen.
+
